@@ -2,7 +2,7 @@ chance = 0
 
 while chance <= 2:
 	input_password = input('enter ur password: ')
-	print (input_password)
+	#print (input_password)
 	if input_password == 'a123456':
 		print ('登入成功！')
 		break
