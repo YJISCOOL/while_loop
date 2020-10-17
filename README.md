@@ -1,2 +1,1 @@
-# while_loop
-# while_loop
+while loop while迴圈 範例教學
